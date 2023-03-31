@@ -1,3 +1,10 @@
+# Setup:
+
+1) Download zip
+2) Open it in VSCode
+3) Run npm install
+4) Run npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
