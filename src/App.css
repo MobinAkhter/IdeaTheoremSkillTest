@@ -1,0 +1,47 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+form {
+  margin-top: 60px;
+  padding: 10px 100px;
+  box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.08);
+  border-radius: 8px;
+}
+
+.cancel {
+  width: 145px;
+  height: 46px;
+  background: white;
+  margin-left: -15px;
+  margin-top: 8px;
+  border-radius: 6px;
+  border: 1px solid #4790A1;
+  color: #4790A1;
+  cursor: pointer;
+}
+
+.submit {
+  width: 145px;
+  height: 46px;
+  margin-left: 16px;
+  background: #127C95;
+  border: 1px solid #4790A1;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.cancel:hover {
+  background: #4790A1;
+  color: white;
+}
+
+.submit:hover {
+  background: rgb(2, 57, 70);
+  color: #fff;
+
+}
